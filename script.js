@@ -16,8 +16,36 @@ document.addEventListener("DOMContentLoaded", function () {
       Parwan: { "Mond Nano Blue": 4, "Milano Queen Furious Red": 1, "Mond Nano White": 1, "Milano Fan Pack New York": 1, "Milano Fan Pack London": 1 },
       Badakhshan: { "Mond Nano Blue": 1, "Milano Queen Furious Red": 1, "Mond Nano White": 1, "Milano Fan Pack New York": 1, "Milano Fan Pack London": 1 }
     },
-    "Semi-Wholesale": { /* same as original */ },
-    "Wholesale": { /* same as original */ }
+"Semi-Wholesale": {  
+      Kabul: { "Mond Nano Blue": 6, "Milano Queen Furious Red": 2, "Mond Nano White": 2, "Milano Fan Pack New York": 2, "Milano Fan Pack London": 2 },
+      Herat: { "Mond Nano Blue": 8, "Milano Queen Furious Red": 4, "Mond Nano White": 2, "Milano Fan Pack New York": 2, "Milano Fan Pack London": 2 },
+      Kandahar: { "Mond Nano Blue": 4, "Milano Queen Furious Red": 6, "Mond Nano White": 2, "Milano Fan Pack New York": 4, "Milano Fan Pack London": 2 },
+      Jalalabad: { "Mond Nano Blue": 7, "Milano Queen Furious Red": 2, "Mond Nano White": 2, "Milano Fan Pack New York": 2, "Milano Fan Pack London": 2 },
+      Mazar: { "Mond Nano Blue": 7, "Milano Queen Furious Red": 2, "Mond Nano White": 2, "Milano Fan Pack New York": 2, "Milano Fan Pack London": 2 },
+      Helmand: { "Mond Nano Blue": 3, "Milano Queen Furious Red": 5, "Mond Nano White": 2, "Milano Fan Pack New York": 4, "Milano Fan Pack London": 2 },
+      Ghazni: { "Mond Nano Blue": 13, "Milano Queen Furious Red": 3, "Mond Nano White": 2, "Milano Fan Pack New York": 3, "Milano Fan Pack London": 2 },
+      Konduz: { "Mond Nano Blue": 9, "Milano Queen Furious Red": 2, "Mond Nano White": 3, "Milano Fan Pack New York": 2, "Milano Fan Pack London": 2 },
+      Jozjan: { "Mond Nano Blue": 6, "Milano Queen Furious Red": 2, "Mond Nano White": 2, "Milano Fan Pack New York": 2, "Milano Fan Pack London": 2 },
+      Khost: { "Mond Nano Blue": 8, "Milano Queen Furious Red": 2, "Mond Nano White": 2, "Milano Fan Pack New York": 2, "Milano Fan Pack London": 2 },
+      "Poli Khomre": { "Mond Nano Blue": 7, "Milano Queen Furious Red": 2, "Mond Nano White": 3, "Milano Fan Pack New York": 2, "Milano Fan Pack London": 2 },
+      Parwan: { "Mond Nano Blue": 5, "Milano Queen Furious Red": 2, "Mond Nano White": 2, "Milano Fan Pack New York": 2, "Milano Fan Pack London": 2 },
+      Badakhshan: { "Mond Nano Blue": 2, "Milano Queen Furious Red": 2, "Mond Nano White": 2, "Milano Fan Pack New York": 2, "Milano Fan Pack London": 2 }
+    },
+    "Wholesale": {
+      Kabul: { "Mond Nano Blue": 34, "Milano Queen Furious Red": 2, "Mond Nano White": 5, "Milano Fan Pack New York": 2, "Milano Fan Pack London": 2 },
+      Herat: { "Mond Nano Blue": 56, "Milano Queen Furious Red": 19, "Mond Nano White": 3, "Milano Fan Pack New York": 6, "Milano Fan Pack London": 2 },
+      Kandahar: { "Mond Nano Blue": 24, "Milano Queen Furious Red": 37, "Mond Nano White": 1, "Milano Fan Pack New York": 20, "Milano Fan Pack London": 1 },
+      Jalalabad: { "Mond Nano Blue": 48, "Milano Queen Furious Red": 2, "Mond Nano White": 1, "Milano Fan Pack New York": 2, "Milano Fan Pack London": 2 },
+      Mazar: { "Mond Nano Blue": 48, "Milano Queen Furious Red": 4, "Mond Nano White": 5, "Milano Fan Pack New York": 2, "Milano Fan Pack London": 2 },
+      Helmand: { "Mond Nano Blue": 13, "Milano Queen Furious Red": 28, "Mond Nano White": 1, "Milano Fan Pack New York": 19, "Milano Fan Pack London": 1 },
+      Ghazni: { "Mond Nano Blue": 97, "Milano Queen Furious Red": 14, "Mond Nano White": 5, "Milano Fan Pack New York": 9, "Milano Fan Pack London": 2 },
+      Konduz: { "Mond Nano Blue": 59, "Milano Queen Furious Red": 5, "Mond Nano White": 16, "Milano Fan Pack New York": 4, "Milano Fan Pack London": 6 },
+      Jozjan: { "Mond Nano Blue": 40, "Milano Queen Furious Red": 3, "Mond Nano White": 3, "Milano Fan Pack New York": 3, "Milano Fan Pack London": 1 },
+      Khost: { "Mond Nano Blue": 50, "Milano Queen Furious Red": 2, "Mond Nano White": 2, "Milano Fan Pack New York": 2, "Milano Fan Pack London": 1 },
+      "Poli Khomre": { "Mond Nano Blue": 45, "Milano Queen Furious Red": 5, "Mond Nano White": 11, "Milano Fan Pack New York": 3, "Milano Fan Pack London": 3 },
+      Parwan: { "Mond Nano Blue": 28, "Milano Queen Furious Red": 3, "Mond Nano White": 4, "Milano Fan Pack New York": 2, "Milano Fan Pack London": 1 },
+      Badakhshan: { "Mond Nano Blue": 4, "Milano Queen Furious Red": 1, "Mond Nano White": 5, "Milano Fan Pack New York": 1, "Milano Fan Pack London": 1 }
+    }
   };
 
   const defaultBags = {
@@ -132,3 +160,4 @@ document.addEventListener("DOMContentLoaded", function () {
   });
 
 });
+
